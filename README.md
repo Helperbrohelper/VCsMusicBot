@@ -54,7 +54,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/Helperbrohelper/VCsMusicBot
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
